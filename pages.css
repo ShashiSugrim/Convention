@@ -1,0 +1,73 @@
+#title{
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+
+}
+body{
+    background: linear-gradient( #f01a45,#0e7bf0);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Staatliches', cursive;
+    padding-left: 50px;
+    color:white;
+}
+#fyrevent{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%; 
+}
+#links{
+    font-size: 30px;
+    display:inline-block;
+    padding-right: 50px;
+}
+h1
+{
+    font-size: 50px;
+}
+h3
+{
+    font-size: 45px;
+}
+#divevent
+{
+    display: inline;
+    font-size:20px;
+}
+#events
+{
+    height: 50%;
+    width: 750px;
+}
+#guests
+{
+    clear: left;
+    margin-bottom: 10px;
+}
+#guestimg
+{
+    width:250px;
+
+}
+.button
+{
+	background-color: #dd14fc;
+	border: none;
+    color: white; 
+    padding: 16px 32px;
+	text-align: center;
+	font-size: 16px;
+	margin: 4px 2px;
+	opacity: 0.6;
+	transition: 0.3s;
+	display: inline-block;
+	border-radius: 8px;
+}
+.button:hover {opacity: 1}
+
+
+	
